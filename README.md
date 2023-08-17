@@ -14,7 +14,7 @@ Dependencies:
 Known Issues:
 - If you use a resource that keeps players on the ground/in "last stand", military personnel will continue you attack you until you bleed out
 
-Thanks to Chat, Joe, and Holiday from the QBox community for their help and guidance while making this small resource. 
+Thanks to Aj, Chat, Joe, and Holiday from the QBox community for their help and guidance while making this small resource. 
 
 # ox_lib zone debug borders (does not trigger when driving through the tunnel below the airstrip)
 ![image](https://github.com/alberttheprince/popcornrp-zancudoalert/assets/85725579/1826e06c-d05a-4975-9f05-a5eb2a19d4f8)
