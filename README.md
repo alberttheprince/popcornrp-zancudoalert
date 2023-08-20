@@ -13,6 +13,7 @@ Dependencies:
 
 Known Issues:
 - If you use a resource that keeps players on the ground/in "last stand", military personnel will continue you attack you until you bleed out
+- if you have qb-smallresources installed it could be that you need to turn on Config.EnableWantedLevel as seen [here](https://github.com/qbcore-framework/qb-smallresources/blob/10af83bbd91ce73c7418de0e801870973c016532/config.lua#L50C1-L50C33)
 
 Thanks to Aj, Chat, Joe, and Holiday from the QBox community for their help and guidance while making this small resource. 
 
