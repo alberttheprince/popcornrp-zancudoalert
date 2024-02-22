@@ -18,9 +18,3 @@ Thanks to Aj, Chat, Joe, and Holiday from the QBox community for their help and 
 
 # ox_lib zone debug borders (does not trigger when driving through the tunnel below the airstrip)
 ![image](https://github.com/alberttheprince/popcornrp-zancudoalert/assets/85725579/1826e06c-d05a-4975-9f05-a5eb2a19d4f8)
-
-
-Please join the QBox Discord, and make sure to support the development of the next best Framework and (currently) best development community in FiveM!
-
-Discord: https://discord.com/invite/Z6Whda5hHA
-Github: https://github.com/Qbox-project
